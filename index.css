@@ -65,7 +65,7 @@ text-align: center;
     width:100%;
     background-color: rgba(0, 0, 0, 0.781);
     overflow: hidden;
-    background: url("../TS/img/shoe1.jfif");
+    background: url("../img/shoe1.jfif");
     
    filter: contrast(120%) hue-rotate(180deg) ;
     background-size:cover;
